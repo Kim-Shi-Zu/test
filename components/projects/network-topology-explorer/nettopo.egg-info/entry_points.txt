@@ -1,0 +1,2 @@
+[console_scripts]
+nettopo = nettopo.cli:main
